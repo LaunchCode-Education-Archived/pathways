@@ -1,4 +1,4 @@
-Now that you've learned a core skill, you're ready to build an amazing project!
+*Now that you've learned a core skill, you're ready to build an amazing project!*
 
 ## Project Overview
 
