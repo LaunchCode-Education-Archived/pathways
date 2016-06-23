@@ -12,9 +12,8 @@ This is your opportunity to be unique, innovative and creative. This should be p
 
 Put your project up in GitHub. This will make it accessible for others to view, and will show off all of hard work you put into it as you rack up commits!
 
-Here are some project ideas, along with potential features to get you started. You don't have to choose one of these; in fact, if you have another idea that you're passionate about, go for it! These project ideas are meant to give you an idea of the type and scale of projects that LaunchCode is looking for, along with giving practical project ideas that any learner at this level can tackle.
+Here are some project ideas, along with potential features to get you started. You don't have to choose one of these; in fact, if you have another idea that you're passionate about, go for it! These project ideas are meant to give you an idea of the type and scale of projects that LaunchCode is looking for, along with giving practical project ideas that any learner at this level can tackle.  Regardless of the project you tackle, your project should:
 
-Regardless of the project you tackle, your project should:
 * Build an application entirely yourself, or nearly so. If you use “starter code" or a group project, you need to go well beyond what's already there, and be able to clearly articulate what you built yourself versus what was built or provided by others.
 * Include 3-5 killer features. The example projects will give you an idea of what constitutes a solid feature. Adding a new button to your web project? Probably not significant to count as a feature. Adding user login to your project? Yep, that's great!
 
