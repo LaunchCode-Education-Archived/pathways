@@ -40,15 +40,18 @@ Be sure to put your project in GitHub right away, and regularly commit!
 1. Create database and define tables
     * Required: database (e.g. MySQL or Postgres)
     * Optional: host database on a web server (e.g. AWS, Azure)
+    * [Link](http://example.com/ "Title") inline link.
 2. Create data models (i.e. classes) and connect to database
     * Required: with JavaScript, Python, Java, C#, PHP or Ruby
     * Required: For Java and C#, use an object relational mapping (ORM) package such as Hibernate (for Java) or ADO.NET Entity Framework (C# / .NET)
     * Optional: use frameworks for your chosen language above -- Rails for Ruby, Django for Python, CakePHP for PHP, etc.
+    * [Link](http://example.com/ "Title") inline link.
 3. Create basic User Interface (UI)
     * Required: HTML and CSS
     * Optional: JavaScript
 4. Add functionality (i.e. CRUD, user management and reporting)
     * Required: JavaScript, Python, Java, C#, PHP or Ruby
+    * [Link](http://example.com/ "Title") inline link.
 
 ### Project examples
 #### Inventory Manager: allows user to easily view and manage levels of inventory
