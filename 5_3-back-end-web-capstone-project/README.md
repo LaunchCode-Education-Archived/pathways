@@ -1,4 +1,4 @@
-<div class="markdown-one-line">Now that you've learned a core skill, you're ready to build an amazing project!</div>
+<div>Now that you've learned a core skill, you're ready to build an amazing project!</div>
 
 ## Project Overview
 
